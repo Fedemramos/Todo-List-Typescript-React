@@ -38,9 +38,9 @@ Para ingresar a la aplicacion:
 link: https://to-dolistbyfede.netlify.app/
 
 ## Características
-Característica 1:
+_ Característica 1:
   Interfaz minimalista
-Característica 2:
+_ Característica 2:
   Posibilidad de segmentar tareas
-Característica 3:
+_ Característica 3:
   Anotar descripciones que aporten a la informacion de la tarea
