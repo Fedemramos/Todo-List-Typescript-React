@@ -32,7 +32,10 @@ Para instalar y utilizar este proyecto localmente, sigue estos pasos:
    Por otra parte esta lista tiene la posibildad de ver las tareas completas, pendientes y todas las registradas
  
  ![Captura de pantalla 2024-06-24 195346](https://github.com/Fedemramos/Todo-List-Typescript-React/assets/114125535/f026e959-d33d-4af2-8fb3-bc0ede821023)
-![Captura de pantalla 2024-06-24 195346](https://github.com/Fedemramos/Todo-List-Typescript-React/assets/114125535/f026e959-d33d-4af2-8fb3-bc0ede821023)
+
+## Link
+Para ingresar a la aplicacion:
+link: https://to-dolistbyfede.netlify.app/
 
 ## Caracteristicas 
 Característica 1:
