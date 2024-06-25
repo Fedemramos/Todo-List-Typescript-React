@@ -24,7 +24,7 @@ Para instalar y utilizar este proyecto localmente, sigue estos pasos:
      npm install
 
 
-## Interaccion 
+## Uso 
 
 2. Uso:
    La app tiene una interfaz sencilla, minimalista donde se prioriza la experiencia de usuario y la facil interpreatacion de la acciones  
@@ -37,7 +37,7 @@ Para instalar y utilizar este proyecto localmente, sigue estos pasos:
 Para ingresar a la aplicacion:
 link: https://to-dolistbyfede.netlify.app/
 
-## Caracteristicas 
+## Características
 Característica 1:
   Interfaz minimalista
 Característica 2:
